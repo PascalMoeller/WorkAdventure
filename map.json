@@ -185,7 +185,7 @@
                 {
                  "name":"openWebsiteTriggerMessage",
                  "type":"string",
-                 "value":"Press SPACE to Start Sketching"
+                 "value":"Press SPACE to Open Clockify"
                 }],
          "type":"tilelayer",
          "visible":true,
